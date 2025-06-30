@@ -1,0 +1,6 @@
+access_key     = "Access-key-add"
+secret_key     = "Secret-key-add"
+region         = "me-central-1"
+vpc_cidr       = "192.168.0.0/16"
+ecs_instance_type = "ecs.t6-c1m2.large"
+ecs_password   = "Your_Root_Password"
