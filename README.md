@@ -26,7 +26,7 @@ This project uses Terraform to:
 
 ### 1. Clone the Repository
 
-```bash
+
 git clone https://github.com/your-org/Alibaba-Deploy-ERPNext.git
 cd Alibaba-Deploy-ERPNext
 
